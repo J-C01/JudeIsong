@@ -84,5 +84,5 @@ My strengths are:
 ## Contact
 
 - 📧 Email: [judeisong01@gmail.com](mailto:judeisong01@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/jude-isong-381b5823b)  
-- 🐙 GitHub: [github.com/yourusername](https://github.com/J-C01)  
+- 💼 LinkedIn: [linkedin.com/in/jude-isong-381b5823b](https://linkedin.com/in/jude-isong-381b5823b)  
+- 🐙 GitHub: [github.com/J-C01](https://github.com/J-C01)  
